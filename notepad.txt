@@ -20,3 +20,7 @@
 // Insert the vs code in file folder -> create the file in vs code (added the file) -> Save the  file in Local file folder (commit the file) -> Push the file in git hub
 
 Insert -> Add -> Commit -> Push 
+
+// Added new file in git internet browser
+//  back to vs code 
+// open terminal git pull
