@@ -1,0 +1,22 @@
+// How to git folder move to vs code
+// open Terminal - git clone (https://github.com/Dhanapal2079/githubemc1.git) copy link in githubemc1(test1.txt)
+
+// Create one file in githubemc1
+// How to add test2.txt
+// open Terminal (git status )-  untracked in test2.txt file (cannot create test2.txt file in git) - U (Untracked)
+
+// How to add file git 
+// open Terminal - git add file name(git add test2.txt) - changes to A in vs code - A (Added)
+
+// How to add Local file folder
+// open Terminal - git commit -m "Test2.txt file Added"
+// save in your local folder
+
+// How to add in git application 
+// open Terminal - git push origin (https://github.com/Dhanapal2079/githubemc1.git) main
+// open Terminal - git push origin main
+
+// How to move Local Repository to internet github
+// Insert the vs code in file folder -> create the file in vs code (added the file) -> Save the  file in Local file folder (commit the file) -> Push the file in git hub
+
+Insert -> Add -> Commit -> Push 
